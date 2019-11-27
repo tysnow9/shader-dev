@@ -1,2 +1,2 @@
 # shader-dev
-Repository for GLSL shader development
+Repository for GLSL various shader development...
